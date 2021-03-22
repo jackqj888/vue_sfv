@@ -1,13 +1,12 @@
 <template>
-<div>
-    镇江街霸联盟
-</div>
+    <nav>
+        hello
+    </nav>
 </template>
 
 <script>
 export default {
-  name: 'Login'
-
+  name: 'navbar'
 }
 </script>
 
